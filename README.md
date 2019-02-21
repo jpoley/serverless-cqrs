@@ -5,9 +5,9 @@ CQRS pattern using AWS Lambda and friends
 
 Components:
 
-API Gateway - front end API gateway
-Lambda - two separate lambda functions separating read / write logic
-RDS Database (with Read Replica) - simple database table
-Step Functions - for Saga / Long running orchestration
-SQS - for Events
+* API Gateway - front end API gateway
+* Lambda - two separate lambda functions separating read / write logic
+* RDS Database (with Read Replica) - simple database table
+* Step Functions - for Saga / Long running orchestration
+* SQS - for Events
 
