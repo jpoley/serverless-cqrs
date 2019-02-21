@@ -2,7 +2,7 @@
 CQRS pattern using AWS Lambda and friends
 
 ![CQRS Example]
-(https://github.com/jpoley/serverless-cqrs/cqrs.png)
+(https://github.com/jpoley/serverless-cqrs/images/cqrs.png)
 
 Components:
 
